@@ -1,7 +1,7 @@
 ---
 title: 'Редактирование в середине стека'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

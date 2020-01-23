@@ -1,7 +1,7 @@
 ---
 title: 'Навигация по стеку'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

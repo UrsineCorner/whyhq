@@ -1,7 +1,7 @@
 ---
 title: 'Topic - начало работы'
 taxonomy:
-    tag:
+    filter:
         - basic
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Детали замены'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

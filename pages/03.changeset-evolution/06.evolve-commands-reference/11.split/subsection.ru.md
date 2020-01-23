@@ -1,7 +1,7 @@
 ---
 title: 'Evolve: split'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

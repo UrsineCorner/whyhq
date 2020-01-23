@@ -1,7 +1,7 @@
 ---
 title: 'Фазы'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

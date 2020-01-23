@@ -9,7 +9,7 @@ content:
         dir: asc
     limit: 0
     taxonomy:
-        tag:
+        filter:
             - basic
             - advanced
 ---

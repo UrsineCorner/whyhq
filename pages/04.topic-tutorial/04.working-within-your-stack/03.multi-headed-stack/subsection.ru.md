@@ -1,7 +1,7 @@
 ---
 title: 'Многоголовый стек'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

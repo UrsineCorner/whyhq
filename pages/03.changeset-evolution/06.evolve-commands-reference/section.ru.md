@@ -1,7 +1,7 @@
 ---
 title: 'Evolve: справка по командам'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

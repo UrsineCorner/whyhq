@@ -1,7 +1,7 @@
 ---
 title: 'Почему виден этот changeset?'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

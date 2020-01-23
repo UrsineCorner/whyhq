@@ -1,7 +1,7 @@
 ---
 title: 'Выводы и заключение'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Evolve: концепции'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

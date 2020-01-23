@@ -1,7 +1,7 @@
 ---
 title: 'Нестабильные changeset-ы'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

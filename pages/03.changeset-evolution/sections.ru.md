@@ -2,7 +2,7 @@
 title: 'Эволюция changeset-ов'
 published: true
 taxonomy:
-    tag:
+    filter:
         - basic
 hide_git_sync_repo_link: false
 hide_page_title: true
@@ -11,10 +11,6 @@ content:
     order:
         by: folder
         dir: asc
-    taxonomy:
-        tag:
-            - basic
-            - advanced
 hide_next_prev_page_buttons: false
 twitterenable: true
 twittercardoptions: summary

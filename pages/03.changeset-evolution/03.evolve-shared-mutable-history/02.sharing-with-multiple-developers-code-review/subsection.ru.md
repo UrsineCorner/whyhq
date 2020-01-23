@@ -1,7 +1,7 @@
 ---
 title: 'Одна история на многих: ревью кода'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

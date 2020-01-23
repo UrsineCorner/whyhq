@@ -1,7 +1,7 @@
 ---
 title: 'Evolve: общая изменчивая история'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

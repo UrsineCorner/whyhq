@@ -1,7 +1,7 @@
 ---
 title: 'Одна история на двоих'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

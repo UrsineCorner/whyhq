@@ -1,7 +1,7 @@
 ---
 title: 'Evolve: prune'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

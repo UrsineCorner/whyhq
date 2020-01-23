@@ -1,7 +1,7 @@
 ---
 title: 'Скрытые (и видимые) changeset-ы'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

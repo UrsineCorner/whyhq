@@ -1,7 +1,7 @@
 ---
 title: 'Работа в стеке'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

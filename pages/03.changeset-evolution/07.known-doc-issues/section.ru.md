@@ -1,7 +1,7 @@
 ---
 title: 'Известные ограничения документации'
 taxonomy:
-    tag:
+    filter:
         - basic
 ---
 

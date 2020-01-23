@@ -1,7 +1,7 @@
 ---
 title: 'Из MQ в Evolve: карта мигранта'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

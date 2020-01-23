@@ -1,7 +1,7 @@
 ---
 title: 'Устаревшие changeset-ы'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

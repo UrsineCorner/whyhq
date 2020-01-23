@@ -1,7 +1,7 @@
 ---
 title: 'Шпаргалка'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

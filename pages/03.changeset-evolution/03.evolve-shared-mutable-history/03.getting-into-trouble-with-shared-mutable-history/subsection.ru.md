@@ -1,7 +1,7 @@
 ---
 title: 'Бег по граблям общей изменчивой истории'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 

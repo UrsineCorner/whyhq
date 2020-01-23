@@ -1,7 +1,7 @@
 ---
 title: 'Работа с несколькими topic'
 taxonomy:
-    tag:
+    filter:
         - advanced
 ---
 
