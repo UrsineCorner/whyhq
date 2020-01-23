@@ -1,7 +1,7 @@
 ---
 title: Введение
 taxonomy:
-    tag:
+    filter:
         - basic
 hide_git_sync_repo_link: false
 hide_page_title: false

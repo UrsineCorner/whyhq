@@ -1,7 +1,7 @@
 ---
 title: 'Работа с субрепозиториями'
 taxonomy:
-    tag:
+    filter:
         - advanced
 hide_git_sync_repo_link: false
 hide_page_title: false

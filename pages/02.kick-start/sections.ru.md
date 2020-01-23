@@ -9,7 +9,7 @@ content:
         by: folder
         dir: asc
     taxonomy:
-        tag:
+        filter:
             - basic
             - advanced
 hide_next_prev_page_buttons: false
