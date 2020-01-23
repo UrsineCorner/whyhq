@@ -1,0 +1,35 @@
+---
+title: 'Эволюция changeset-ов'
+published: true
+taxonomy:
+    tag:
+        - basic
+hide_git_sync_repo_link: false
+hide_page_title: true
+content:
+    items: '@self.children'
+    order:
+        by: folder
+        dir: asc
+    taxonomy:
+        tag:
+            - basic
+            - advanced
+hide_next_prev_page_buttons: false
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 3
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+facebookenable: true
+---
+
+[div class="sections-page-title"]
+## Эволюция changeset-ов в Mercurial
+[/div]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
