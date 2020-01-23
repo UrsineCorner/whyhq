@@ -1,2 +1,3 @@
-# whyhq
-Mirror of WhyHQ public pages
+# "Why HQ" Site
+
+Mirror of WhyHQ public pages with GitSync
