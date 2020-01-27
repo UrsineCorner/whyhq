@@ -2,7 +2,7 @@
 title: Заметки
 media_order: writing.jpg
 date: '10-11-2019 02:38'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: writing.jpg
 header_image_alt_text: 'Писать всегда, писать везде'
