@@ -51,6 +51,8 @@ display_post_summary:
     enabled: '0'
 display_child_page_titles: '0'
 display_content_titles: '1'
+sitemap:
+    ignore: true
 ---
 
 Обычная техническая страница для сбора локальных данных, которые нужны много раз.

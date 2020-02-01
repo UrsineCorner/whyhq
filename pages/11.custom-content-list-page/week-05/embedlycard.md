@@ -6,4 +6,6 @@ embedly_card_url: 'http://www.uxbooth.com/articles/the-art-of-guerrilla-usabilit
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

@@ -17,6 +17,8 @@ facebookenable: true
 onpage_menu: false
 page-inject:
     processed_content: false
+sitemap:
+    ignore: true
 ---
 
 This is example **modular** page, where where content from module pages of **another page** is displayed using the [Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject).   Each of the below definitions are contained in a separate page, and these pages can be included in multiple areas of the site.

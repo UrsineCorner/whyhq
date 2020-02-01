@@ -17,6 +17,8 @@ orgaratingenabled: false
 eventenabled: false
 personenabled: false
 facebookenable: true
+sitemap:
+    ignore: true
 ---
 
 ** Example Embed.ly Card **

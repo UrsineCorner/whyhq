@@ -6,4 +6,6 @@ embedly_card_url: 'http://blog.invisionapp.com/mobile-first-mobile-only/'
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

@@ -6,4 +6,6 @@ embedly_card_url: 'http://scottberkun.com/essays/35-how-to-give-and-receive-crit
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

@@ -6,4 +6,6 @@ embedly_card_url: 'https://www.smashingmagazine.com/2014/10/the-skeptics-guide-t
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

@@ -6,4 +6,6 @@ embedly_card_url: 'https://www.nngroup.com/articles/usability-101-introduction-t
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

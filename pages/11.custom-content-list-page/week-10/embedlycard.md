@@ -6,4 +6,6 @@ embedly_card_url: 'https://medium.com/bridge-collection/a-lean-ux-iteration-on-d
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

@@ -6,4 +6,6 @@ embedly_card_url: 'http://www.smashingmagazine.com/2013/09/5-step-process-conduc
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

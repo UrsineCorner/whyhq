@@ -11,5 +11,7 @@ content:
     limit: 0
 hide_git_sync_repo_link: true
 display_child_page_titles: true
+sitemap:
+    ignore: true
 ---
 

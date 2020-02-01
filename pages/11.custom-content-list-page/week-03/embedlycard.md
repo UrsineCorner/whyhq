@@ -6,4 +6,6 @@ embedly_card_url: 'https://www.aytech.ca/blog/user-journey-map/'
 published: true
 visible: false
 cache_enable: false
+sitemap:
+    ignore: true
 ---

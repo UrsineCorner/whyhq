@@ -1,5 +1,7 @@
 ---
 title: Placeholder Slides Title
+sitemap:
+    ignore: true
 ---
 
 [.text: alignment(center)]
