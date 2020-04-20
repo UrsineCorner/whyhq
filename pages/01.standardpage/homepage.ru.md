@@ -27,7 +27,7 @@ orga:
     areaserved:
         -
             area: Россия
-    phone: '+7 953 822-88-81'
+    phone: '+7 912 282-44-55'
     url: 'https://ursinecorner.ru'
     logo: 'https://whyhg.ursinecorner.ru/tech/uc.jpeg'
     ratingValue: 3

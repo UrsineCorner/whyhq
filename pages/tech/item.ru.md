@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 body_classes: header-light
 routes:
     default: /special/collection
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
 hero_image: fun.jpg
 header_image_alt_text: 'Просто кот'
 blog_url: /blog
@@ -24,7 +24,7 @@ twittercardoptions: summary
 articleenabled: true
 article:
     datePublished: '13-11-2019 00:32'
-    dateModified: '10-01-2020 19:42'
+    dateModified: '10-04-2020 07:16'
     image_url: /tech/fun.jpg
     author: 'Lazy Badger'
     publisher_logo_url: /tech/uc.jpeg
@@ -60,3 +60,9 @@ sitemap:
 Дублирую сюда, так как легкий выбор есть только из файлов к страницам.
 
 {{ page.collection.first().date|date('Y') }}
+
+{% if read_file('theme://screenshot.jpg') %}
+  Все хорошо с проверкой
+ {% else %}
+  Все плохо с проверкой
+{% endif %}
