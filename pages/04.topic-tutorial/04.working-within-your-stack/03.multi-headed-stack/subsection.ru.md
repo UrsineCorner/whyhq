@@ -1,5 +1,6 @@
 ---
 title: 'Многоголовый стек'
+menu: 'Змей Горыныч'
 taxonomy:
     filter:
         - advanced

@@ -1,5 +1,6 @@
 ---
 title: 'Навигация по стеку'
+menu: 'Навигация'
 taxonomy:
     filter:
         - advanced

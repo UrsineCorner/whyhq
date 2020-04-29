@@ -1,5 +1,6 @@
 ---
 title: 'Редактирование в середине стека'
+menu: 'Редактирование'
 taxonomy:
     filter:
         - advanced

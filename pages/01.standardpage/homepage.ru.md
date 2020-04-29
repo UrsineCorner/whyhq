@@ -33,6 +33,9 @@ orga:
     ratingValue: 3
     foundingDate: '2011'
     email: mayor@ursinecorner.ru
+    paymentaccepted:
+        - Visa
+        - Cash
     founders:
         -
             name: 'Lazy Badger'
