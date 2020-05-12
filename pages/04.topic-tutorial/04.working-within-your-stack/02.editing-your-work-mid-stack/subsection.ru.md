@@ -1,6 +1,7 @@
 ---
 title: 'Редактирование в середине стека'
 menu: 'Редактирование'
+button: '{{ page.header.title }}'
 taxonomy:
     filter:
         - advanced

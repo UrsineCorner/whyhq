@@ -6,6 +6,8 @@ taxonomy:
     category:
         - internal
 hide_git_sync_repo_link: false
+sitemap:
+    ignore: true
 body_classes: header-light
 routes:
     default: /special/collection
@@ -51,8 +53,6 @@ display_post_summary:
     enabled: '0'
 display_child_page_titles: '0'
 display_content_titles: '1'
-sitemap:
-    ignore: true
 ---
 
 Обычная техническая страница для сбора локальных данных, которые нужны много раз.
@@ -66,3 +66,4 @@ sitemap:
  {% else %}
   Все плохо с проверкой
 {% endif %}
+[Play Store](https://play.google.com/store/apps/details?id=Orion.Soft&hl=en)

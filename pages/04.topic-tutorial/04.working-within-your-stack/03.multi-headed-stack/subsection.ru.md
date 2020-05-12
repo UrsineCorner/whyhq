@@ -1,6 +1,7 @@
 ---
 title: 'Многоголовый стек'
 menu: 'Змей Горыныч'
+button: '{{ page.header.title }}'
 taxonomy:
     filter:
         - advanced

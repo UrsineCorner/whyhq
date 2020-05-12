@@ -1,6 +1,7 @@
 ---
 title: 'Навигация по стеку'
 menu: 'Навигация'
+button: '{{ page.header.title }}'
 taxonomy:
     filter:
         - advanced
