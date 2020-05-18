@@ -12,6 +12,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+post_icon: fa-angle-double-right
 hide_from_post_list: false
 feed:
     limit: 10
