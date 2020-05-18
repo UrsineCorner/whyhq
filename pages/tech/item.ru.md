@@ -66,4 +66,3 @@ display_content_titles: '1'
  {% else %}
   Все плохо с проверкой
 {% endif %}
-[Play Store](https://play.google.com/store/apps/details?id=Orion.Soft&hl=en)
